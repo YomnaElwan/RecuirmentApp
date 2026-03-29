@@ -1,0 +1,263 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Data [Yomna]\\DEPI 2025 - 2026\\Recruiment App\\RecuirmentAPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Data [Yomna]\\DEPI 2025 - 2026\\Recruiment App\\RecuirmentAPP\\RecuirmentAPP\\Migrations\\20260329191219_addPointsTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RecuirmentAPP\\Migrations\\20260329191219_addPointsTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6737CC63-E573-4C10-971F-553280BF72AB}|RecuirmentAPP\\RecuirmentAPP.csproj|d:\\data [yomna]\\depi 2025 - 2026\\recruiment app\\recuirmentapp\\recuirmentapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6737CC63-E573-4C10-971F-553280BF72AB}|RecuirmentAPP\\RecuirmentAPP.csproj|solutionrelative:recuirmentapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6737CC63-E573-4C10-971F-553280BF72AB}|RecuirmentAPP\\RecuirmentAPP.csproj|d:\\data [yomna]\\depi 2025 - 2026\\recruiment app\\recuirmentapp\\recuirmentapp\\models\\points.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6737CC63-E573-4C10-971F-553280BF72AB}|RecuirmentAPP\\RecuirmentAPP.csproj|solutionrelative:recuirmentapp\\models\\points.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6737CC63-E573-4C10-971F-553280BF72AB}|RecuirmentAPP\\RecuirmentAPP.csproj|d:\\data [yomna]\\depi 2025 - 2026\\recruiment app\\recuirmentapp\\recuirmentapp\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6737CC63-E573-4C10-971F-553280BF72AB}|RecuirmentAPP\\RecuirmentAPP.csproj|solutionrelative:recuirmentapp\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6737CC63-E573-4C10-971F-553280BF72AB}|RecuirmentAPP\\RecuirmentAPP.csproj|d:\\data [yomna]\\depi 2025 - 2026\\recruiment app\\recuirmentapp\\recuirmentapp\\models\\recuirmentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6737CC63-E573-4C10-971F-553280BF72AB}|RecuirmentAPP\\RecuirmentAPP.csproj|solutionrelative:recuirmentapp\\models\\recuirmentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Data [Yomna]\\DEPI 2025 - 2026\\Recruiment App\\RecuirmentAPP\\RecuirmentAPP\\Migrations\\20260329185211_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RecuirmentAPP\\Migrations\\20260329185211_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6737CC63-E573-4C10-971F-553280BF72AB}|RecuirmentAPP\\RecuirmentAPP.csproj|d:\\data [yomna]\\depi 2025 - 2026\\recruiment app\\recuirmentapp\\recuirmentapp\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6737CC63-E573-4C10-971F-553280BF72AB}|RecuirmentAPP\\RecuirmentAPP.csproj|solutionrelative:recuirmentapp\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6737CC63-E573-4C10-971F-553280BF72AB}|RecuirmentAPP\\RecuirmentAPP.csproj|d:\\data [yomna]\\depi 2025 - 2026\\recruiment app\\recuirmentapp\\recuirmentapp\\models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6737CC63-E573-4C10-971F-553280BF72AB}|RecuirmentAPP\\RecuirmentAPP.csproj|solutionrelative:recuirmentapp\\models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6737CC63-E573-4C10-971F-553280BF72AB}|RecuirmentAPP\\RecuirmentAPP.csproj|d:\\data [yomna]\\depi 2025 - 2026\\recruiment app\\recuirmentapp\\recuirmentapp\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6737CC63-E573-4C10-971F-553280BF72AB}|RecuirmentAPP\\RecuirmentAPP.csproj|solutionrelative:recuirmentapp\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6737CC63-E573-4C10-971F-553280BF72AB}|RecuirmentAPP\\RecuirmentAPP.csproj|d:\\data [yomna]\\depi 2025 - 2026\\recruiment app\\recuirmentapp\\recuirmentapp\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6737CC63-E573-4C10-971F-553280BF72AB}|RecuirmentAPP\\RecuirmentAPP.csproj|solutionrelative:recuirmentapp\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6737CC63-E573-4C10-971F-553280BF72AB}|RecuirmentAPP\\RecuirmentAPP.csproj|d:\\data [yomna]\\depi 2025 - 2026\\recruiment app\\recuirmentapp\\recuirmentapp\\models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6737CC63-E573-4C10-971F-553280BF72AB}|RecuirmentAPP\\RecuirmentAPP.csproj|solutionrelative:recuirmentapp\\models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6737CC63-E573-4C10-971F-553280BF72AB}|RecuirmentAPP\\RecuirmentAPP.csproj|d:\\data [yomna]\\depi 2025 - 2026\\recruiment app\\recuirmentapp\\recuirmentapp\\models\\mentor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6737CC63-E573-4C10-971F-553280BF72AB}|RecuirmentAPP\\RecuirmentAPP.csproj|solutionrelative:recuirmentapp\\models\\mentor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6737CC63-E573-4C10-971F-553280BF72AB}|RecuirmentAPP\\RecuirmentAPP.csproj|d:\\data [yomna]\\depi 2025 - 2026\\recruiment app\\recuirmentapp\\recuirmentapp\\models\\headhunter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6737CC63-E573-4C10-971F-553280BF72AB}|RecuirmentAPP\\RecuirmentAPP.csproj|solutionrelative:recuirmentapp\\models\\headhunter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 197,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260329191219_addPointsTable.cs",
+              "DocumentMoniker": "D:\\Data [Yomna]\\DEPI 2025 - 2026\\Recruiment App\\RecuirmentAPP\\RecuirmentAPP\\Migrations\\20260329191219_addPointsTable.cs",
+              "RelativeDocumentMoniker": "RecuirmentAPP\\Migrations\\20260329191219_addPointsTable.cs",
+              "ToolTip": "D:\\Data [Yomna]\\DEPI 2025 - 2026\\Recruiment App\\RecuirmentAPP\\RecuirmentAPP\\Migrations\\20260329191219_addPointsTable.cs*",
+              "RelativeToolTip": "RecuirmentAPP\\Migrations\\20260329191219_addPointsTable.cs*",
+              "ViewState": "AgIAAEIBAAAAAAAAAAAAABYBAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T19:12:20.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Points.cs",
+              "DocumentMoniker": "D:\\Data [Yomna]\\DEPI 2025 - 2026\\Recruiment App\\RecuirmentAPP\\RecuirmentAPP\\Models\\Points.cs",
+              "RelativeDocumentMoniker": "RecuirmentAPP\\Models\\Points.cs",
+              "ToolTip": "D:\\Data [Yomna]\\DEPI 2025 - 2026\\Recruiment App\\RecuirmentAPP\\RecuirmentAPP\\Models\\Points.cs",
+              "RelativeToolTip": "RecuirmentAPP\\Models\\Points.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T19:09:17.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20260329185211_Initial.cs",
+              "DocumentMoniker": "D:\\Data [Yomna]\\DEPI 2025 - 2026\\Recruiment App\\RecuirmentAPP\\RecuirmentAPP\\Migrations\\20260329185211_Initial.cs",
+              "RelativeDocumentMoniker": "RecuirmentAPP\\Migrations\\20260329185211_Initial.cs",
+              "ToolTip": "D:\\Data [Yomna]\\DEPI 2025 - 2026\\Recruiment App\\RecuirmentAPP\\RecuirmentAPP\\Migrations\\20260329185211_Initial.cs",
+              "RelativeToolTip": "RecuirmentAPP\\Migrations\\20260329185211_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T18:52:11.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Job.cs",
+              "DocumentMoniker": "D:\\Data [Yomna]\\DEPI 2025 - 2026\\Recruiment App\\RecuirmentAPP\\RecuirmentAPP\\Models\\Job.cs",
+              "RelativeDocumentMoniker": "RecuirmentAPP\\Models\\Job.cs",
+              "ToolTip": "D:\\Data [Yomna]\\DEPI 2025 - 2026\\Recruiment App\\RecuirmentAPP\\RecuirmentAPP\\Models\\Job.cs",
+              "RelativeToolTip": "RecuirmentAPP\\Models\\Job.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T18:00:40.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Match.cs",
+              "DocumentMoniker": "D:\\Data [Yomna]\\DEPI 2025 - 2026\\Recruiment App\\RecuirmentAPP\\RecuirmentAPP\\Models\\Match.cs",
+              "RelativeDocumentMoniker": "RecuirmentAPP\\Models\\Match.cs",
+              "ToolTip": "D:\\Data [Yomna]\\DEPI 2025 - 2026\\Recruiment App\\RecuirmentAPP\\RecuirmentAPP\\Models\\Match.cs",
+              "RelativeToolTip": "RecuirmentAPP\\Models\\Match.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T18:22:47.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Review.cs",
+              "DocumentMoniker": "D:\\Data [Yomna]\\DEPI 2025 - 2026\\Recruiment App\\RecuirmentAPP\\RecuirmentAPP\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "RecuirmentAPP\\Models\\Review.cs",
+              "ToolTip": "D:\\Data [Yomna]\\DEPI 2025 - 2026\\Recruiment App\\RecuirmentAPP\\RecuirmentAPP\\Models\\Review.cs",
+              "RelativeToolTip": "RecuirmentAPP\\Models\\Review.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T18:08:03.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Data [Yomna]\\DEPI 2025 - 2026\\Recruiment App\\RecuirmentAPP\\RecuirmentAPP\\Models\\User.cs",
+              "RelativeDocumentMoniker": "RecuirmentAPP\\Models\\User.cs",
+              "ToolTip": "D:\\Data [Yomna]\\DEPI 2025 - 2026\\Recruiment App\\RecuirmentAPP\\RecuirmentAPP\\Models\\User.cs",
+              "RelativeToolTip": "RecuirmentAPP\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T17:55:50.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RecuirmentContext.cs",
+              "DocumentMoniker": "D:\\Data [Yomna]\\DEPI 2025 - 2026\\Recruiment App\\RecuirmentAPP\\RecuirmentAPP\\Models\\RecuirmentContext.cs",
+              "RelativeDocumentMoniker": "RecuirmentAPP\\Models\\RecuirmentContext.cs",
+              "ToolTip": "D:\\Data [Yomna]\\DEPI 2025 - 2026\\Recruiment App\\RecuirmentAPP\\RecuirmentAPP\\Models\\RecuirmentContext.cs",
+              "RelativeToolTip": "RecuirmentAPP\\Models\\RecuirmentContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAzwBYAAACjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T17:51:36.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Candidate.cs",
+              "DocumentMoniker": "D:\\Data [Yomna]\\DEPI 2025 - 2026\\Recruiment App\\RecuirmentAPP\\RecuirmentAPP\\Models\\Candidate.cs",
+              "RelativeDocumentMoniker": "RecuirmentAPP\\Models\\Candidate.cs",
+              "ToolTip": "D:\\Data [Yomna]\\DEPI 2025 - 2026\\Recruiment App\\RecuirmentAPP\\RecuirmentAPP\\Models\\Candidate.cs",
+              "RelativeToolTip": "RecuirmentAPP\\Models\\Candidate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T17:58:32.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Company.cs",
+              "DocumentMoniker": "D:\\Data [Yomna]\\DEPI 2025 - 2026\\Recruiment App\\RecuirmentAPP\\RecuirmentAPP\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "RecuirmentAPP\\Models\\Company.cs",
+              "ToolTip": "D:\\Data [Yomna]\\DEPI 2025 - 2026\\Recruiment App\\RecuirmentAPP\\RecuirmentAPP\\Models\\Company.cs",
+              "RelativeToolTip": "RecuirmentAPP\\Models\\Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T18:00:11.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Application.cs",
+              "DocumentMoniker": "D:\\Data [Yomna]\\DEPI 2025 - 2026\\Recruiment App\\RecuirmentAPP\\RecuirmentAPP\\Models\\Application.cs",
+              "RelativeDocumentMoniker": "RecuirmentAPP\\Models\\Application.cs",
+              "ToolTip": "D:\\Data [Yomna]\\DEPI 2025 - 2026\\Recruiment App\\RecuirmentAPP\\RecuirmentAPP\\Models\\Application.cs",
+              "RelativeToolTip": "RecuirmentAPP\\Models\\Application.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T18:05:36.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Mentor.cs",
+              "DocumentMoniker": "D:\\Data [Yomna]\\DEPI 2025 - 2026\\Recruiment App\\RecuirmentAPP\\RecuirmentAPP\\Models\\Mentor.cs",
+              "RelativeDocumentMoniker": "RecuirmentAPP\\Models\\Mentor.cs",
+              "ToolTip": "D:\\Data [Yomna]\\DEPI 2025 - 2026\\Recruiment App\\RecuirmentAPP\\RecuirmentAPP\\Models\\Mentor.cs",
+              "RelativeToolTip": "RecuirmentAPP\\Models\\Mentor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T17:59:23.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HeadHunter.cs",
+              "DocumentMoniker": "D:\\Data [Yomna]\\DEPI 2025 - 2026\\Recruiment App\\RecuirmentAPP\\RecuirmentAPP\\Models\\HeadHunter.cs",
+              "RelativeDocumentMoniker": "RecuirmentAPP\\Models\\HeadHunter.cs",
+              "ToolTip": "D:\\Data [Yomna]\\DEPI 2025 - 2026\\Recruiment App\\RecuirmentAPP\\RecuirmentAPP\\Models\\HeadHunter.cs",
+              "RelativeToolTip": "RecuirmentAPP\\Models\\HeadHunter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T17:59:50.758Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 203,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
