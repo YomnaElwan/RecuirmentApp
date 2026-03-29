@@ -157,3 +157,5 @@ D:\Data [Yomna]\DEPI 2025 - 2026\Recruiment App\RecuirmentAPP\RecuirmentAPP\obj\
 D:\Data [Yomna]\DEPI 2025 - 2026\Recruiment App\RecuirmentAPP\RecuirmentAPP\obj\Debug\net10.0\RecuirmentAPP.pdb
 D:\Data [Yomna]\DEPI 2025 - 2026\Recruiment App\RecuirmentAPP\RecuirmentAPP\obj\Debug\net10.0\RecuirmentAPP.genruntimeconfig.cache
 D:\Data [Yomna]\DEPI 2025 - 2026\Recruiment App\RecuirmentAPP\RecuirmentAPP\obj\Debug\net10.0\ref\RecuirmentAPP.dll
+D:\Data [Yomna]\DEPI 2025 - 2026\Recruiment App\RecuirmentAPP\RecuirmentAPP\bin\Debug\net10.0\DataSeeding\DataSeed.json
+D:\Data [Yomna]\DEPI 2025 - 2026\Recruiment App\RecuirmentAPP\RecuirmentAPP\obj\Debug\net10.0\RecuirmentAPP.sourcelink.json

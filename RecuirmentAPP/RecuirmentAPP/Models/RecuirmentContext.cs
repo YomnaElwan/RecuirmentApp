@@ -13,6 +13,7 @@ namespace RecuirmentAPP.Models
         public DbSet<Job> Jobs { get; set; }
         public DbSet<Match> Matches { get; set; }
         public DbSet<Review> Reviews { get; set; }
+        public DbSet<AuditLog>AuditLogs { get; set; }
 
         public RecuirmentContext()
         {

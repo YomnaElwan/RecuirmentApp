@@ -9,6 +9,6 @@ namespace RecuirmentAPP.Models
         public int UserId { get; set; }
         public User User { get; set; }
         public int Value { get; set; }
-        public DateTime CreatedAt { get; set; } = DateTime.UtcNow.AddHours(2);
+        public string Reason { get; set; }
     }
 }

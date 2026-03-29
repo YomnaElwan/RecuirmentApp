@@ -12,8 +12,8 @@ using RecuirmentAPP.Models;
 namespace RecuirmentAPP.Migrations
 {
     [DbContext(typeof(RecuirmentContext))]
-    [Migration("20260329191219_addPointsTable")]
-    partial class addPointsTable
+    [Migration("20260329220407_initalizeDatabase")]
+    partial class initalizeDatabase
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -33,9 +33,6 @@ namespace RecuirmentAPP.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<DateTime>("ApplyDate")
-                        .HasColumnType("datetime2");
-
                     b.Property<int>("CandidateId")
                         .HasColumnType("int");
 
@@ -51,6 +48,33 @@ namespace RecuirmentAPP.Migrations
                     b.ToTable("Applications");
                 });
 
+            modelBuilder.Entity("RecuirmentAPP.Models.AuditLog", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<string>("ActionName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime>("CreateAt")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("EntityName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("UserId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("UserId");
+
+                    b.ToTable("AuditLogs");
+                });
+
             modelBuilder.Entity("RecuirmentAPP.Models.Job", b =>
                 {
                     b.Property<int>("Id")
@@ -61,9 +85,6 @@ namespace RecuirmentAPP.Migrations
 
                     b.Property<int>("CompanyId")
                         .HasColumnType("int");
-
-                    b.Property<DateTime>("CreateAt")
-                        .HasColumnType("datetime2");
 
                     b.Property<string>("Description")
                         .HasColumnType("nvarchar(max)");
@@ -115,8 +136,9 @@ namespace RecuirmentAPP.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<DateTime>("CreatedAt")
-                        .HasColumnType("datetime2");
+                    b.Property<string>("Reason")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<int>("UserId")
                         .HasColumnType("int");
@@ -142,18 +164,15 @@ namespace RecuirmentAPP.Migrations
                     b.Property<int>("CandidateId")
                         .HasColumnType("int");
 
-                    b.Property<DateTime>("CreatedAt")
-                        .HasColumnType("datetime2");
+                    b.Property<string>("Description")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<int>("MentorId")
                         .HasColumnType("int");
 
                     b.Property<int>("Rating")
                         .HasColumnType("int");
-
-                    b.Property<string>("ReviewContent")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
 
@@ -251,6 +270,17 @@ namespace RecuirmentAPP.Migrations
                     b.Navigation("Candidate");
 
                     b.Navigation("Job");
+                });
+
+            modelBuilder.Entity("RecuirmentAPP.Models.AuditLog", b =>
+                {
+                    b.HasOne("RecuirmentAPP.Models.User", "User")
+                        .WithMany()
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("User");
                 });
 
             modelBuilder.Entity("RecuirmentAPP.Models.Job", b =>
