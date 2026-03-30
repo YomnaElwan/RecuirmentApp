@@ -1,3 +1,20 @@
-{
+[
+  {
+    "Id": 1,
+    "UserName": "efinance",
+    "Email": "efinance@test.com",
+    "Password": "123",
+    "Track": "Financial Technology",
+    "Type": "Company"
+  },
+  {
+    "Id": 2,
+    "UserName": "YomnaElwan",
+    "Email": "yomnaelwan19@gmail.com",
+    "Password": "Yomna06112001",
+    "Track": "IT",
+    "CV": "YomnaElwanCV.pdf",
+    "Type": "Candidate"
+  }
 
-}
+]

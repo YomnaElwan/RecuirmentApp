@@ -1,4 +1,9 @@
 
+using Microsoft.EntityFrameworkCore;
+using RecuirmentAPP.Models;
+using RecuirmentAPP.Service;
+using RecuirmentAPP.Services;
+
 namespace RecuirmentAPP
 {
     public class Program
@@ -12,14 +17,27 @@ namespace RecuirmentAPP
             builder.Services.AddControllers();
             // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
             builder.Services.AddOpenApi();
+            builder.Services.AddDbContext<RecuirmentContext>(options =>
+    options.UseSqlServer("Data Source=AHMEDELWAN\\SQLEXPRESS;Initial Catalog=RecuirmentSystemDB;Integrated Security=True;TrustServerCertificate=True"));
+            builder.Services.AddScoped<IDataSeedingService, DataSeedingService>();
 
             var app = builder.Build();
-
-            // Configure the HTTP request pipeline.
-            if (app.Environment.IsDevelopment())
+            using (var scope = app.Services.CreateScope())
             {
-                app.MapOpenApi();
+                var services = scope.ServiceProvider;
+                var context = services.GetRequiredService<RecuirmentContext>();
+                var seedingService = services.GetRequiredService<IDataSeedingService>();
+                seedingService.UsersSeed(context);
+
             }
+            
+
+
+                // Configure the HTTP request pipeline.
+                if (app.Environment.IsDevelopment())
+                {
+                    app.MapOpenApi();
+                }
 
             app.UseHttpsRedirection();
 

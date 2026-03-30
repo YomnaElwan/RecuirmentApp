@@ -15,14 +15,14 @@ namespace RecuirmentAPP.Models
         public DbSet<Review> Reviews { get; set; }
         public DbSet<AuditLog>AuditLogs { get; set; }
 
-        public RecuirmentContext()
+        public RecuirmentContext(DbContextOptions<RecuirmentContext> options)
+         : base(options)
         {
-            
         }
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            optionsBuilder.UseSqlServer("Data Source=AHMEDELWAN\\SQLEXPRESS;Initial Catalog=RecuirmentSystemDB;Integrated Security=True;TrustServerCertificate=True");
+        //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        //{
+        //    optionsBuilder.UseSqlServer("Data Source=AHMEDELWAN\\SQLEXPRESS;Initial Catalog=RecuirmentSystemDB;Integrated Security=True;TrustServerCertificate=True");
 
-        }
+        //}
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RecuirmentAPP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95190741c2a93aac4add3713f4878b373a1bdd85")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+542b70a8db136656f6e25b020f3d17ee46d1c888")]
 [assembly: System.Reflection.AssemblyProductAttribute("RecuirmentAPP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RecuirmentAPP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
